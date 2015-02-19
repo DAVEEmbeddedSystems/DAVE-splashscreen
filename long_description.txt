@@ -1,0 +1,5 @@
+DAVE Embedded Systems is a well-established and constantly growing Italian company, focused on designing, manufacturing and selling of miniaturized embedded systems solutions. Since its foundation, back in 1998, DAVE Embedded Systems has developed its business, increasing its know-how and activities.
+Support and assistance provided to many Italian and foreign companies mainly concerns the design of microprocessor platforms, based on Linux, Windows or Android.
+DAVE Embedded Systems provides CPU modules solutions or System-On-Module (SoM) based on the latest technologies (e.g. Multi-Core ARM Cortex, PowerPC and X86 based on Freescale and Texas Instruments) for the typical high-end markets such us medical and automotive.
+Thanks to the experience acquired in different areas, DAVE Embedded Systems is the best partner for hardware solutions, designed on specific customer requirements reducing the time-to-market.
+Furthermore, DAVE Embedded Systems ensures products long-term availability and a dedicated technical support service. DAVE Embedded Systems is able to answer at 80% of tickets during the same day, and 99% in 24 hours.
